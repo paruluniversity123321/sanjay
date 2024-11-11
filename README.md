@@ -1,2 +1,4 @@
 # sanjay
-this is my first GitHub repository
+this is my first GitHub repository  
+<br>
+Author - Sanjay pagare
